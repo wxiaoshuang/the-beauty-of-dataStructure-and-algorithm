@@ -8,3 +8,11 @@
 * 找到中间节点
 * 单链表反转
 * 两个有序的单链表合并
+## 树
+### 二叉搜索树BST
+* insert(key)
+* search(key)
+* remove(key)
+* preOrder
+* postOrder
+*
